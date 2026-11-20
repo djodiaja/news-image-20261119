@@ -49,6 +49,30 @@ happened, or were first reported, on 19 November 2026 in any time zone are used.
   intercepted missile caused damage; the Houthis did not immediately claim it.
 - https://www.washingtonpost.com/national/2026/11/19/saudi-yemen-war-iran-november-19-2026/e961fb2c-e3f6-11f1-a99e-b3e3805c6b8b_story.html
 
+## v2 additions (researched 20 Nov 2026; each dated 19 Nov by its source)
+
+- Summit outcome: Chinese media call it a four-point "peace declaration" (nuclear risk, oil refining,
+  UN reform, limits on the ICC) — Democracy Now 19 Nov headlines. (v1 said "no joint statement",
+  from morning reports; corrected.)
+- Anthropic debut: IPO $83, opened $111.50, closed $97.17 (+17.07%) — CNN, Bloomberg, BNN.
+- Wall Street: Dow -1,101.11 (-2.2%) to 49,097.06; S&P 500 -2.0% to 7,175.83, sixth straight
+  loss — Motley Fool, Yahoo Finance.
+- Kerch: Russia says 53 drones downed overnight — AP.
+- Riyadh: Houthi missile debris damages a tower; no injuries — Al Jazeera.
+- Seoul: Supreme Court overturns ex-PM Han Duck-soo's martial-law conviction, resentencing — AP.
+- Mongolia: parliament accepts President Khurelsukh's resignation, 96 of 104 — AP.
+- COP31 (Antalya): revised draft drops fossil-fuel language — UN News.
+- Somalia orders the UAE ambassador out within 72 hours — Reuters.
+- Australia: unemployment 4.9%, highest since 2021; 43,500 jobs lost — ABC.
+- Odisha: 105,304 evacuated ahead of Cyclone Akvan — Deccan Herald.
+- Also: Berlin talks (Kyiv Independent); Senegal budget by decree (AFP); Colombia national strike
+  (Infobae); Jepchirchir 3-year ban (Al Jazeera); EU Commission cyberattack (Notebookcheck);
+  Philippines-Chile FTA (Inquirer); Iran says tankers hit mines (Anadolu); IEA World Energy Outlook,
+  54.1 Gt (IEA); NZ pay-equity ruling (1News); FIFA challengers (Al Jazeera); Nicholls 113* (Gulf
+  News); Gopalganj police station torched (Dhaka Tribune); Israel strikes Bekaa (Times of Israel);
+  mosque arson in Dahi (Al Jazeera); Abu Safiya detention extended (Democracy Now); FDA approves
+  neladalkib (MSK); SpaceX scrubs USSF-317 (Spaceflight Now).
+
 ## Left out
 
 - Senegal migrant boat — sank overnight 17–18 Nov.
